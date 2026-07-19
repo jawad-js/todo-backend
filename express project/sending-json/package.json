@@ -1,0 +1,23 @@
+{
+  "name": "sending-json",
+  "version": "1.0.0",
+  "description": "This file is about how to send the json into node",
+  "homepage": "https://github.com/jawad-js/todo-backend#readme",
+  "bugs": {
+    "url": "https://github.com/jawad-js/todo-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jawad-js/todo-backend.git"
+  },
+  "license": "ISC",
+  "author": "Jawad",
+  "type": "commonjs",
+  "main": "sending-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
